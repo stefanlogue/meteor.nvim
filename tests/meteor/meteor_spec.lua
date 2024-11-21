@@ -1,4 +1,3 @@
-local stub = require("luassert.stub")
 local plugin = require("meteor")
 
 describe("meteor", function()
