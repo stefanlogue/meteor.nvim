@@ -14,7 +14,7 @@ jobs:
       - name: panvimdoc
         uses: kdheepak/panvimdoc@main
         with:
-          vimdoc: my-template-docs
+          vimdoc: meteor.nvim
           version: "Neovim >= 0.10.0"
           demojify: true
           treesitter: true
